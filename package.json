@@ -1,0 +1,28 @@
+{
+  "name": "koa-mongodb-demo",
+  "version": "1.0.0",
+  "description": "* node+koa+mongodb项目",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^8.0.6",
+    "koa-static": "^5.0.0",
+    "koa-views": "^6.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/summer-Yang163/node-koa-mongodb-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/summer-Yang163/node-koa-mongodb-demo/issues"
+  },
+  "homepage": "https://github.com/summer-Yang163/node-koa-mongodb-demo#readme"
+}
